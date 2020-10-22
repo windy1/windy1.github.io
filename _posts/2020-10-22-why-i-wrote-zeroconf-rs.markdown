@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I Wrote zeroconf-rs: A cross-platform wrapper around Bonjour and Avahi"
 date:   2020-10-22 11:14:26 -0400
-categories: jekyll update
+categories: posts
 ---
 
 *tl;dr: I spent many hours writing a program to save me 2 seconds every time I want to copy-paste
